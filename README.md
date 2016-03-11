@@ -2,6 +2,10 @@ IOS
 
 1、地区选择 https://github.com/zeqinjie/AddressChoicePickViewDemo
 2、数日子 https://github.com/juvham/kaiyan
+
+******图片处理***********************
+1、CountdownTo-master  倒计时  星期 天 日 秒
+******图片处理***********************
 3、图片多选，可以拍照’ https://github.com/yuditxj/ZLPhotoBrowser
 4、图片处理软件   https://github.com/yackle/CLImageEditor 
 	只负责图片处理，没有集成多选包括滤镜 裁剪 贴纸等常用功能
